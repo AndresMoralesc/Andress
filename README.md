@@ -1,2 +1,2 @@
 # Andress
-practica
+Parte del proyecto
